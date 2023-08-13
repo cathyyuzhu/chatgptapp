@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = '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';
 
 const userInput = document.getElementById('userInput');
 const submitButton = document.getElementById('submitButton');
